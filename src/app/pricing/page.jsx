@@ -18,7 +18,9 @@ async function PricingPage() {
     <div className="flex justify-center items-center h-screen">
       <div>
         <header>
-          <h1 className="text-center my-5">Pricing</h1>
+          <h1 className="text-center my-5">
+            Precios de los productos
+          </h1>
         </header>
 
         <div className="flex gap-x-2">
