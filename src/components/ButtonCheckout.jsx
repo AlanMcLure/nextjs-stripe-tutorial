@@ -18,7 +18,7 @@ function ButtonCheckout({ priceId }) {
         window.location.href = data.url
       }}
     >
-      Buy
+      Comprar
     </button>
   );
 }
